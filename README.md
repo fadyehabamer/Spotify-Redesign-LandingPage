@@ -1,2 +1,2 @@
-# Spotify-Redesign-Landing-Page
- Responsive Using Css3
+# Spotify Redesign LandingPage
+> Responsive Using Css3
